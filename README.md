@@ -1,4 +1,4 @@
-# optional-sec | Detection Engineering Portfolio
+#Detection Engineering Portfolio
 
 > *"Don't just respond to threats. Build the systems that find them first."*
 
