@@ -1,4 +1,3 @@
-# detection-engineering-portfolio
 # optional-sec | Detection Engineering Portfolio
 
 > *"Don't just respond to threats. Build the systems that find them first."*
@@ -17,7 +16,6 @@ I hold a **CompTIA CySA+** certification and I'm currently deepening my expertis
 - 💼 SOC Analyst II & Detection Engineer @ Boomi
 - 🎯 4+ years in Security Operations, Incident Response, and Detection Engineering
 - 🏆 CompTIA CySA+
-- 🎮 Known as `optional` in the wargames community
 
 ---
 
@@ -100,24 +98,15 @@ Every rule in this repository follows these standards:
 | Category | Tools |
 |----------|-------|
 | **SIEM / Detection** | Sumo Logic, Splunk, Elastic (ELK) Stack, Microsoft Sentinel, Azure Sentinel |
-| **EDR / XDR** | CrowdStrike Falcon, SentinelOne, Carbon Black, Trend Micro Vision One, Microsoft Defender |
-| **SOAR / Ticketing** | Palo Alto Cortex XSOAR, FortiSOAR, Torq.io, ServiceNow, PagerDuty |
-| **Security Tools** | PhishER (KnowBe4), TruffleHog, Portal26, Astrix, ProofPoint, Akamai Control Center |
+| **EDR / XDR** | CrowdStrike Falcon, SentinelOne, Carbon Black, Cylance Protect, Trend Micro Vision One, Microsoft Defender |
+| **SOAR / Ticketing** | Palo Alto Cortex XSOAR, FortiSOAR, Torq.io, Splunk SIR, ServiceNow, OpsGenie, PagerDuty, Jira |
+| **Email Security** | ProofPoint, PhishER (KnowBe4) |
+| **Security Tools** | TruffleHog, Portal26, Astrix, Akamai Control Center, MDR Booli, Halo, Cisco AMP, Cisco ASA (Basic) |
+| **Identity** | Azure AD, Entra ID |
 | **Detection Languages** | Sigma, YARA, REGEX, Sumo Logic Query Language |
 | **Scripting** | Python, PowerShell, Bash |
+| **Collaboration** | Slack, Jira |
 | **Frameworks** | MITRE ATT&CK, PICERL, Detection-as-Code |
-
----
-
-## MITRE ATT&CK Coverage
-
-> Coverage map updated continuously as new rules are added.
-
-![ATT&CK Coverage Map](./mitre-coverage/coverage-map.png)
-
-Full coverage layer available: [`coverage-map.json`](./mitre-coverage/coverage-map.json)
-
-Gap analysis and remediation plan: [`gap-analysis.md`](./mitre-coverage/gap-analysis.md)
 
 ---
 
